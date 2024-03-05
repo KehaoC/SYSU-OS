@@ -1,0 +1,3 @@
+  nasm -o mbr.o -g -f elf32 mbr.asm
+  ld -o mbr.symbol -melf_i386 -N mbr.o -Ttext 0x7c00
+  qemu-system-i386 -hda hd.img -s -S -parallel stdio -serial null

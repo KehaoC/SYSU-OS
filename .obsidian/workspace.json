@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "c56528bb2e077540",
+    "type": "split",
+    "children": [
+      {
+        "id": "26ded89cb1c1339f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84ccd1a8d44a1c58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "实验1-22336018-蔡可豪.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6efb3fe9f090897c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bab7c98f2b74a02c",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa6c92804a254269",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1dcbb3a0558bb92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb7ac283da8666e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47982d143b7257bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "d4d1124b6366f243",
+    "type": "split",
+    "children": [
+      {
+        "id": "09efe2406ef70ebb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d13b3a69cf02ce72",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "实验1-22336018-蔡可豪.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "694b1d65a5e02441",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "实验1-22336018-蔡可豪.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1980e1af99f29dc8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fab0e20ac88759d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "实验1-22336018-蔡可豪.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "84ccd1a8d44a1c58",
+  "lastOpenFiles": [
+    "Appendix/Screenshot 2024-03-04 at 11.11.15.png",
+    "Appendix/Screenshot 2024-03-04 at 11.27.17.png",
+    "Appendix/Screenshot 2024-03-04 at 11.23.02.png",
+    "实验1-22336018-蔡可豪.md",
+    "Lab1.md",
+    "Appendix/Screenshot 2024-03-04 at 11.40.10.png",
+    "Appendix/Screenshot 2024-03-04 at 11.37.38.png",
+    "Appendix/Screenshot 2024-03-04 at 11.33.28.png",
+    "Appendix/apt_list.png",
+    "Report_Example.md",
+    "Appendix/download_vscode.png",
+    "Appendix/desktop.png",
+    "Appendix/debug_with_gdb.png"
+  ]
+}
