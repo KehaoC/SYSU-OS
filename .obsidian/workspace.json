@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "26ded89cb1c1339f",
+        "id": "2ed0e65e20b0c9f3",
         "type": "tabs",
         "children": [
           {
-            "id": "84ccd1a8d44a1c58",
+            "id": "1e494e8c42264b2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "实验1-22336018-蔡可豪.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6efb3fe9f090897c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lab1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "实验1-22336018-蔡可豪.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "实验1-22336018-蔡可豪.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "实验1-22336018-蔡可豪.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -158,18 +138,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "84ccd1a8d44a1c58",
+  "active": "1e494e8c42264b2e",
   "lastOpenFiles": [
+    "InClass/Lab1_Report.md",
+    "lab1/实验1-22336018-蔡可豪.pdf",
+    "Statistic/01. 在QEMU环境中使用GDB调试Linux内核.pdf",
+    "Statistic/03. QEMU上运行BusyBox详解.pdf",
+    "Statistic/02. Initramfs 原理和实践.pdf",
+    "Statistic/Report_Example.md",
+    "Statistic/实验2-汇编语言参考书/80X86汇编语言与计算机体系结构.pdf",
+    "Statistic/实验2-汇编语言参考书/汇编语言编程艺术（清晰版）.pdf",
+    "Statistic/实验2-汇编语言参考书/汇编10h中断来显示字符串.pdf",
+    "Statistic/实验2-汇编语言参考书/[汇编语言(基于x86处理器)-第7版].pdf",
+    "Statistic/实验1内容要求.pdf",
+    "Lab1.md",
+    "Statistic/作业模板/SYSUOS-Homework-tex/Homework.pdf",
+    "Statistic/实验模板/SYSUOS-Experiment-tex/README.md",
+    "README.md",
     "Appendix/Screenshot 2024-03-04 at 11.11.15.png",
     "Appendix/Screenshot 2024-03-04 at 11.27.17.png",
     "Appendix/Screenshot 2024-03-04 at 11.23.02.png",
-    "实验1-22336018-蔡可豪.md",
-    "Lab1.md",
     "Appendix/Screenshot 2024-03-04 at 11.40.10.png",
     "Appendix/Screenshot 2024-03-04 at 11.37.38.png",
     "Appendix/Screenshot 2024-03-04 at 11.33.28.png",
     "Appendix/apt_list.png",
-    "Report_Example.md",
     "Appendix/download_vscode.png",
     "Appendix/desktop.png",
     "Appendix/debug_with_gdb.png"
